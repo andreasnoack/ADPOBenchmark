@@ -6,3 +6,4 @@ condor*
 **/Run*
 !**/Run*.mod
 !**/Run*.mmdl
+!**/run*.jl
